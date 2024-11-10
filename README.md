@@ -50,7 +50,7 @@ Below is an example of how the OCR results are displayed on the images:
 
 ![Example Image](Transit/Transit_1_plate_with_text.bmp)
 
-![Example Image](Transit/Transit_3_plate_with_text.bmp)
+![Example Image](Transit/Transit_5_plate_with_text.bmp)
 
 ![Example Image](Transit/Transit_2_plate_with_text.bmp)
 
