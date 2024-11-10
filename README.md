@@ -20,7 +20,7 @@ This repository provides a solution for Optical Character Recognition (OCR) on T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tir-plate-ocr.git
+   git clone https://github.com/salemsajjad/tir-plate-ocr.git
    cd tir-plate-ocr
    ```
 
@@ -48,13 +48,13 @@ This repository provides a solution for Optical Character Recognition (OCR) on T
 
 Below is an example of how the OCR results are displayed on the images:
 
-![Example Image](Transit\Transit_1_plate_with_text.bmp)
+![Example Image](Transit/Transit_1_plate_with_text.bmp)
 
-![Example Image](Transit\Transit_2_plate_with_text.bmp)
+![Example Image](Transit/Transit_2_plate_with_text.bmp)
 
-![Example Image](Transit\Transit_3_plate_with_text.bmp)
+![Example Image](Transit/Transit_3_plate_with_text.bmp)
 
-![Example Image](Transit\Transit_4_plate_with_text.bmp)
+![Example Image](Transit/Transit_4_plate_with_text.bmp)
 
 ## Acknowledgments
 
